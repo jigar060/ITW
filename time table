@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time table</title>
+</head>
+<body>
+    
+    
+    <table text-align="centre" class="t1" border="1" align="centre" >
+        <tr>
+            <th colspan="7">VIDUSH SOMANY INSTITUTE OF TECHNOLOGY AND RESEARCH, KADI </th>
+        </tr>
+        <tr>
+            <th colspan="7">Semester - III [With Effective from : 16/06/2025]</th>
+        </tr>
+        <tr>
+            <th colspan="7">CLASS TIME TABLE-3<SUP>rd</SUP> GANDHINAGAR</th>
+        </tr>
+        <tr >
+            <th>Gandhinagar</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thurday</th>
+            <th>Friday</th>
+            <th>Saturday</th>
+        </tr>
+        <tr>
+            <td>9:00am to 9:50am</td>
+            <td>DSA</td>
+            <td>ITW</td>
+            <td>DE</td>
+            <td>DE</td>
+            <td rowspan="2">DBMS</td>
+            <td>DM</td>
+        </tr>
+        <tr>
+            <td>9:55am to 10:45am</td>
+            <td>DM</td>
+            <td>ITW</td>
+            <td>DE</td>
+            <td>DE</td>
+            <td rowspan="2"></td>
+           
+        </tr>
+        <tr>
+            <th colspan="7">BREAK</th>
+        </tr>
+        <tr>
+            <td>11:00am to 11:50am</td>
+            <td>DE</td>
+            <td>DBMS</td>
+            <td>DBMS</td>
+            <td>DBMS</td>
+            <td>DSA</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11:55pm to 12:45pm </td>
+            <td>DM</td>
+            <td>DSA</td>
+            <td>ITW</td>
+            <td>ITW</td>
+            <td>DSA</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th colspan="7" >BREAK</th>
+        </tr>
+        <tr>
+            <td>1:20pm to 2:10pm </td>
+            <td>DM</td>
+            <td rowspan="2">DSA</td>
+            <td rowspan="2">ITW</td>
+            <td rowspan="2">ITW</td>
+            <td rowspan="2">DSA</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2:10pm to 3:00pm </td>
+            <td>DM</td>
+            < rowspan
+            </tr>
+        
+        
+    </table>
+   
+   
+</body>
+</html>
